@@ -1,0 +1,16 @@
+[
+{
+  "modid": "notenoughvices",
+  "name": "Not Enough Vices",
+  "description": "Adds all types of vices to minecraft",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["adnre","DeaSTL"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": ["stryphiccore"]
+}
+]
